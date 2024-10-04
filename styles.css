@@ -18,7 +18,7 @@
 }
 .pictorial-news-section{
 	background-color:white;
-	border-radius:20px
+	border-radius:20px;
 	display:flex;
 	flex-direction:column;
 	justify-content:space-evenly;
