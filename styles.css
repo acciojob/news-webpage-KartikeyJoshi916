@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+#main{
+	display:flex;
+	align-items:flex-start;
+	justify-content:space-evenly;
+}
+.header{
+	background-color:#011e29;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	color:white;
+}
+.latest-news-section{
+	background-color:white;
+	border-radius:20px
+}
+.pictorial-news-section{
+	background-color:white;
+	border-radius:20px
+	display:flex;
+	flex-direction:column;
+	justify-content:space-evenly;
+	align-items:center;
+}
+img{
+	width:200px;
+}
