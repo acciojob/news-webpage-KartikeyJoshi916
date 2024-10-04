@@ -5,10 +5,10 @@
 	justify-content:space-evenly;
 }
 .header{
+	text-align:center;
 	background-color:#011e29;
 	padding:10px;
 	display:flex;
-	align-items:center;
 	justify-content:center;
 	color:white;
 }
